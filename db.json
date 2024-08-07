@@ -3,12 +3,14 @@
         {
             "id": 1,
             "nama": "agus",
-            "umur": "33"
+            "umur": 33,
+            "dependants": 3
         },
         {
             "id": 2,
             "nama": "Melon",
-            "umur": "30"
+            "umur": 30,
+            "dependants": 2
         }
     ],
     "comments": [
