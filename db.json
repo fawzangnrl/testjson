@@ -4,13 +4,15 @@
             "id": 1,
             "nama": "agus",
             "umur": 33,
-            "dependants": 3
+            "dependants": 3,
+            "kebutuhan-biaya": "Rp. 4.500.000.000"
         },
         {
             "id": 2,
             "nama": "Melon",
             "umur": 30,
-            "dependants": 2
+            "dependants": 2,
+            "kebutuhan-biaya": "Rp. 2.500.000.000"
         }
     ],
     "comments": [
